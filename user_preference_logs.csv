@@ -1,0 +1,11 @@
+user_id,food,preference
+user_001,chicken biryani,1
+user_001,grilled salmon,1
+user_002,butter naan,1
+user_002,salad,0
+user_003,fruit salad,1
+user_003,samosa,0
+user_004,quinoa bowl,1
+user_004,burger,0
+user_005,vegetable curry,1
+user_005,fried rice,0

@@ -1,0 +1,37 @@
+condition,relation,food
+diabetes,avoid,sugar
+diabetes,avoid,ghee
+diabetes,avoid,white bread
+diabetes,safe,leafy greens
+diabetes,safe,whole grains
+diabetes,safe,nuts
+hypertension,avoid,salt
+hypertension,avoid,pickles
+hypertension,avoid,soy sauce
+hypertension,safe,banana
+hypertension,safe,oats
+hypertension,safe,beetroot
+anemia,avoid,coffee
+anemia,avoid,tea
+anemia,safe,spinach
+anemia,safe,red meat
+anemia,safe,lentils
+anemia,safe,fortified cereals
+cholesterol,avoid,fried food
+cholesterol,avoid,butter
+cholesterol,avoid,red meat
+cholesterol,safe,oats
+cholesterol,safe,almonds
+cholesterol,safe,olive oil
+obesity,avoid,fast food
+obesity,avoid,sugary drinks
+obesity,avoid,white rice
+obesity,safe,vegetables
+obesity,safe,whole grains
+obesity,safe,lean protein
+kidney disease,avoid,red meat
+kidney disease,avoid,high sodium foods
+kidney disease,avoid,dairy
+kidney disease,safe,cauliflower
+kidney disease,safe,blueberries
+kidney disease,safe,garlic

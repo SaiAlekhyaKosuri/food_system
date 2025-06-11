@@ -1,0 +1,3 @@
+user_id,health_condition,menu_item,ingredients,nutrients,recommendation,reason
+user_001,diabetes,fruit salad,"apple, banana, orange","fiber, vitamin C",safe,"low sugar, rich in fiber"
+user_002,hypertension,grilled fish,"fish, olive oil, herbs","omega-3, protein",safe,"low sodium, heart-friendly fats"
